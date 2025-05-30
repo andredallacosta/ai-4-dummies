@@ -34,7 +34,7 @@
 - Frameworks: LlamaIndex, LangChain, Haystack
 - Reading:
   - [RAG with LlamaIndex](https://docs.llamaindex.ai/en/stable/getting_started/concepts.html)
-  - [RAG with LangChain](https://python.langchain.com/docs/use_cases/question_answering/)
+  - [RAG with LangChain](https://python.langchain.com/docs/tutorials/rag/)
 - Practice:
   - Build a simple Q&A with RAG using LlamaIndex or LangChain
 
@@ -46,8 +46,8 @@
 - Main implementations and frameworks that support MCP
 - How to use MCP to integrate different agents, LLMs and tools
 - Reading:
-  - [Model Context Protocol - GitHub](https://github.com/modelcontext/protocol)
-  - [MCP and interoperability in agents](https://blog.langchain.dev/model-context-protocol/)
+  - [Model Context Protocol - GitHub](https://github.com/modelcontextprotocol/modelcontextprotocol)
+  - [MCP and interoperability in agents](https://www.anthropic.com/news/model-context-protocol)
 - Practice:
   - Integrate two agents or LLMs using MCP
   - Exchange context between different frameworks (e.g.: LangChain + LlamaIndex)
@@ -60,9 +60,9 @@
 - Tools: LangChain Memory, LlamaIndex Storage, vector databases
 - History persistence
 - Reading:
-  - [LangChain Memory](https://python.langchain.com/docs/modules/memory/)
+  - [LangChain Memory](https://python.langchain.com/api_reference/langchain/memory.html)
   - [LlamaIndex Storage](https://docs.llamaindex.ai/en/stable/module_guides/storing/index.html)
-  - [RAG and long-term memory](https://blog.langchain.dev/long-term-memory/)
+  - [RAG and long-term memory](https://medium.com/aingineer/a-complete-guide-to-implementing-memory-augmented-rag-c3582a8dc74f)
 - Practice:
   - Implement a chatbot with conversation memory (LangChain or LlamaIndex)
   - Persist interaction history in a vector database or file
@@ -86,7 +86,7 @@
 - What are agents, types and applications
 - Frameworks: LangChain Agents, CrewAI, AutoGen
 - Reading:
-  - [LangChain Agents](https://python.langchain.com/docs/modules/agents/)
+  - [LangChain Agents](https://python.langchain.com/docs/how_to/#agents)
   - [CrewAI](https://docs.crewai.com/)
 - Practice:
   - Create a simple agent for task automation (e.g.: search + summarization)
@@ -97,7 +97,7 @@
 - Multiple agent orchestration
 - Workflows, pipelines and collaboration
 - Reading:
-  - [LangChain Multi-Agent](https://python.langchain.com/docs/modules/agents/multi_agent)
+  - [Multi-Agent](https://blog.langchain.dev/langgraph-multi-agent-workflows/)
   - [AutoGen](https://microsoft.github.io/autogen/)
 - Practice:
   - Orchestrate two agents to solve a problem together
@@ -121,7 +121,7 @@
 - Security, alignment and guardrails
 - Reading:
   - [LLaVA (Vision+Language)](https://llava-vl.github.io/)
-  - [Guardrails AI](https://shreyar.github.io/guardrails/)
+  - [Guardrails AI](https://github.com/guardrails-ai/guardrails)
 - Practice:
   - Test a multi-modal model (e.g.: LLaVA, CLIP)
   - Implement a simple guardrail to filter responses

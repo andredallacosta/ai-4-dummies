@@ -27,7 +27,7 @@ Master the concept and practical implementation of RAG (Retrieval-Augmented Gene
 **Objective:** Setup and first steps with LangChain for RAG
 
 **Activities:**
-- [ ] 📖 Read: [LangChain RAG Tutorial](https://python.langchain.com/docs/use_cases/question_answering/)
+- [ ] 📖 Read: [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/)
 - [ ] ⚙️ Install dependencies: langchain, openai, chromadb
 - [ ] 👨‍💻 Create `example_01_langchain_basics.py`: loader + splitter + embeddings
 - [ ] 🧪 Test with simple text document (PDF or TXT)
@@ -131,13 +131,13 @@ Master the concept and practical implementation of RAG (Retrieval-Augmented Gene
 
 ### **Essential Readings**
 - [RAG with LlamaIndex](https://docs.llamaindex.ai/en/stable/getting_started/concepts.html)
-- [RAG with LangChain](https://python.langchain.com/docs/use_cases/question_answering/)
+- [RAG with LangChain](https://python.langchain.com/docs/tutorials/rag/)
 - [Chunking Strategies](https://www.pinecone.io/learn/chunking-strategies/)
 
 ### **Additional Readings**
-- [Advanced RAG Techniques](https://blog.langchain.dev/semi-structured-multi-modal-rag/)
+- [Advanced RAG Techniques](https://python.langchain.com/docs/tutorials/rag/)
 - [RAG vs Fine-tuning](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
-- [Evaluation of RAG Systems](https://blog.langchain.dev/evaluating-rag-pipelines-with-ragas-langsmith/)
+- [Evaluation of RAG Systems](https://docs.smith.langchain.com/evaluation/tutorials/rag)
 
 ### **Recommended Videos**
 - [LangChain RAG from Scratch](https://www.youtube.com/watch?v=LhnCsygAvzY)

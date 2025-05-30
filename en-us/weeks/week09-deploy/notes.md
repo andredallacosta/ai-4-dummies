@@ -12,7 +12,7 @@ Master deployment techniques for AI models and applications in production, inclu
 **Objective:** Understand different approaches for model deployment
 
 **Activities:**
-- [ ] 📖 Read: [ML Model Deployment Strategies](https://neptune.ai/blog/ml-model-deployment-strategies)
+- [ ] 📖 Read: [ML Model Deployment Strategies](https://neptune.ai/blog/model-deployment-strategies)
 - [ ] 📖 Read: [FastAPI for ML APIs](https://fastapi.tiangolo.com/tutorial/)
 - [ ] 📝 Map options: REST API, serverless, edge, batch
 - [ ] 🧠 List trade-offs: latency, cost, scalability
@@ -145,12 +145,12 @@ Master deployment techniques for AI models and applications in production, inclu
 ### **Essential Readings**
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Docker for ML](https://docs.docker.com/get-started/)
-- [ML Monitoring Best Practices](https://blog.mlops.community/ml-monitoring-best-practices/)
+- [ML Monitoring Best Practices](https://mlops.community/guide-to-monitoring-machine-learning-applications/)
 
 ### **Additional Readings**
 - [Kubernetes for ML](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
 - [MLOps Principles](https://ml-ops.org/)
-- [Model Serving Frameworks](https://blog.tensorflow.org/2021/08/ml-model-serving-comparison.html)
+- [Model Serving Frameworks](https://github.com/tensorflow/serving)
 
 ### **Important Tools**
 - [Prometheus](https://prometheus.io/docs/introduction/overview/)

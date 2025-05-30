@@ -12,8 +12,8 @@ Understand the Model Context Protocol (MCP) and how to use it to create interope
 **Objective:** Understand what MCP is and why it's crucial for the future of AI
 
 **Activities:**
-- [ ] 📖 Read: [Model Context Protocol Overview](https://modelcontext.ai/)
-- [ ] 📖 Read: [Why MCP Matters for AI Systems](https://blog.anthropic.com/model-context-protocol/)
+- [ ] 📖 Read: [Model Context Protocol Overview](https://modelcontextprotocol.io/)
+- [ ] 📖 Read: [Why MCP Matters for AI Systems](https://www.anthropic.com/news/model-context-protocol)
 - [ ] 📝 Summarize: What is MCP and what problem does it solve
 - [ ] 🧠 List 5 scenarios where MCP would be useful
 - [ ] 📝 Compare MCP with traditional APIs
@@ -27,7 +27,7 @@ Understand the Model Context Protocol (MCP) and how to use it to create interope
 **Objective:** Understand the technical structure of the MCP protocol
 
 **Activities:**
-- [ ] 📖 Read: [MCP Protocol Specification](https://spec.modelcontext.ai/)
+- [ ] 📖 Read: [MCP Protocol Specification](https://spec.modelcontextprotocol.io/)
 - [ ] 📖 Study components: Context, Resources, Tools, Prompts
 - [ ] 📝 Draw MCP architecture diagram
 - [ ] 🧠 Understand flow: Request → Context → Processing → Response
@@ -118,19 +118,20 @@ Understand the Model Context Protocol (MCP) and how to use it to create interope
 ## 📚 Study Resources
 
 ### **Essential Readings**
-- [Model Context Protocol Docs](https://modelcontext.ai/)
-- [MCP Specification](https://spec.modelcontext.ai/)
-- [Anthropic MCP Announcement](https://blog.anthropic.com/model-context-protocol/)
+- [Model Context Protocol Docs](https://modelcontextprotocol.io/)
+- [MCP Specification](https://spec.modelcontextprotocol.io/)
+- [Anthropic MCP Announcement](https://www.anthropic.com/news/model-context-protocol)
 
 ### **Additional Readings**
-- [MCP vs Traditional APIs](https://blog.langchain.dev/model-context-protocol-standardizing-ai-agent-communication/)
+- [MCP vs Traditional APIs](https://medium.com/nane-limon/mcp-model-context-protocol-mcp-vs-traditional-apis-rag-81eebff65111)
 - [Building Interoperable AI Systems](https://arxiv.org/abs/2311.07406)
-- [Context Sharing in Multi-Agent Systems](https://blog.crewai.com/context-sharing-mcp/)
+- [Context Sharing in Multi-Agent Systems](https://docs.crewai.com/concepts/collaboration#3-context-sharing)
+
 
 ### **Important Repositories**
-- [MCP Python SDK](https://github.com/modelcontext/python-sdk)
-- [MCP Examples](https://github.com/modelcontext/examples)
-- [MCP Servers](https://github.com/modelcontext/servers)
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+- [MCP Examples](https://github.com/modelcontextprotocol/servers)
+- [MCP Servers](https://github.com/modelcontextprotocol/servers)
 
 ---
 

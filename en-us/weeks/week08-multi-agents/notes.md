@@ -12,8 +12,8 @@ Master advanced orchestration and coordination techniques for multiple agents, i
 **Objective:** Understand multi-agent system principles
 
 **Activities:**
-- [ ] 📖 Read: [Multi-Agent Systems Overview](https://blog.langchain.dev/multi-agent-systems/)
-- [ ] 📖 Read: [Agent Communication Patterns](https://blog.crewai.com/agent-collaboration-patterns/)
+- [ ] 📖 Read: [Multi-Agent Systems Overview](https://blog.langchain.dev/langgraph-multi-agent-workflows/)
+- [ ] 📖 Read: [Agent Communication Patterns](https://docs.crewai.com/concepts/collaboration#collaboration-patterns)
 - [ ] 📝 Map patterns: Hierarchical, Peer-to-peer, Pipeline
 - [ ] 🧠 List advantages of multiple agents vs single agent
 - [ ] 📝 Identify challenges: coordination, conflicts, synchronization
@@ -141,11 +141,11 @@ Master advanced orchestration and coordination techniques for multiple agents, i
 ### **Essential Readings**
 - [AutoGen Documentation](https://microsoft.github.io/autogen/)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
-- [Multi-Agent Collaboration](https://blog.crewai.com/agent-collaboration-patterns/)
+- [Multi-Agent Collaboration](https://docs.crewai.com/concepts/collaboration/)
 
 ### **Additional Readings**
 - [Distributed AI Systems](https://arxiv.org/abs/2311.11114)
-- [Agent Communication Languages](https://www.cs.cmu.edu/~softagents/kqml.html)
+- [Agent Communication Languages](https://www.cs.cmu.edu/~qihe/paper/open_solution/node3.html)
 - [Swarm Intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence)
 
 ### **Relevant Papers**

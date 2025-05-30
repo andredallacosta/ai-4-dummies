@@ -12,8 +12,8 @@ Explorar fronteiras da IA generativa, incluindo modelos multi-modais, segurança
 **Objetivo:** Entender modelos que combinam texto, imagem, áudio e vídeo
 
 **Atividades:**
-- [ ] 📖 Ler: [Multi-modal AI Overview](https://blog.openai.com/gpt-4v-system-card/)
-- [ ] 📖 Ler: [Vision-Language Models](https://huggingface.co/blog/vision-language-pretraining)
+- [ ] 📖 Ler: [Multi-modal AI Overview](https://openai.com/index/gpt-4v-system-card/)
+- [ ] 📖 Ler: [Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining)
 - [ ] 📝 Mapear modalidades: texto, imagem, áudio, vídeo
 - [ ] 🧠 Listar aplicações: descrição de imagens, geração de vídeo
 - [ ] 📝 Comparar abordagens: early fusion vs late fusion
@@ -69,7 +69,7 @@ Explorar fronteiras da IA generativa, incluindo modelos multi-modais, segurança
 **Objetivo:** Implementar sistemas de segurança para IA
 
 **Atividades:**
-- [ ] 📖 Ler: [AI Safety and Alignment](https://blog.anthropic.com/ai-safety-via-debate/)
+- [ ] 📖 Ler: [AI Safety and Alignment](https://www.anthropic.com/news/core-views-on-ai-safety)
 - [ ] 👨‍💻 Criar `exemplo_03_guardrails.py`
 - [ ] 🛡️ Implementar guardrails:
   - Content filtering
@@ -154,9 +154,9 @@ Explorar fronteiras da IA generativa, incluindo modelos multi-modais, segurança
 ## 📚 Recursos de Estudo
 
 ### **Leituras Essenciais**
-- [GPT-4V System Card](https://blog.openai.com/gpt-4v-system-card/)
+- [GPT-4V System Card](https://openai.com/index/gpt-4v-system-card/)
 - [LLaVA Paper](https://arxiv.org/abs/2304.08485)
-- [Guardrails AI Documentation](https://shreyar.github.io/guardrails/)
+- [Guardrails AI Documentation](https://github.com/guardrails-ai/guardrails)
 
 ### **Leituras Complementares**
 - [Constitutional AI](https://arxiv.org/abs/2212.08073)
@@ -169,7 +169,7 @@ Explorar fronteiras da IA generativa, incluindo modelos multi-modais, segurança
 - [Constitutional AI](https://arxiv.org/abs/2212.08073)
 
 ### **Ferramentas de Segurança**
-- [Guardrails AI](https://guardrailsai.github.io/guardrails/)
+- [Guardrails AI](https://github.com/guardrails-ai/guardrails)
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
 - [Presidio](https://github.com/microsoft/presidio)
 

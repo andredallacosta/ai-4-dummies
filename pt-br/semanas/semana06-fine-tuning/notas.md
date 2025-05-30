@@ -12,8 +12,8 @@ Dominar técnicas de fine-tuning e LoRA (Low-Rank Adaptation) para adaptar model
 **Objetivo:** Entender conceitos fundamentais de fine-tuning vs outras abordagens
 
 **Atividades:**
-- [ ] 📖 Ler: [Fine-tuning vs RAG vs Prompt Engineering](https://blog.langchain.dev/fine-tuning-vs-retrieval-augmented-generation/)
-- [ ] 📖 Ler: [When to Fine-tune](https://platform.openai.com/docs/guides/fine-tuning/when-to-use-fine-tuning)
+- [ ] 📖 Ler: [Fine-tuning vs RAG vs Prompt Engineering](https://python.langchain.com/docs/tutorials/rag/)
+- [ ] 📖 Ler: [When to Fine-tune](https://platform.openai.com/docs/guides/fine-tuning)
 - [ ] 📝 Resumir: Quando usar fine-tuning, RAG ou prompt engineering
 - [ ] 🧠 Listar 5 cenários ideais para fine-tuning
 - [ ] 📝 Mapear custos e benefícios de cada abordagem
@@ -28,7 +28,7 @@ Dominar técnicas de fine-tuning e LoRA (Low-Rank Adaptation) para adaptar model
 
 **Atividades:**
 - [ ] 📖 Ler: [LoRA Paper](https://arxiv.org/abs/2106.09685)
-- [ ] 📖 Ler: [LoRA Explained Simply](https://blog.paperspace.com/lora-explained/)
+- [ ] 📖 Ler: [LoRA Explained Simply](https://www.cloudflare.com/pt-br/learning/ai/what-is-lora/)
 - [ ] 📝 Desenhar diagrama da arquitetura LoRA
 - [ ] 🧠 Entender matemática: A + BA onde A,B são matrizes de rank baixo
 - [ ] 📝 Comparar LoRA vs full fine-tuning: memória, tempo, qualidade
@@ -131,7 +131,7 @@ Dominar técnicas de fine-tuning e LoRA (Low-Rank Adaptation) para adaptar model
 ### **Leituras Essenciais**
 - [LoRA Paper](https://arxiv.org/abs/2106.09685)
 - [HuggingFace PEFT](https://github.com/huggingface/peft)
-- [Fine-tuning Best Practices](https://blog.paperspace.com/fine-tuning-transformers/)
+- [Fine-tuning Best Practices](hhttps://huggingface.co/docs/transformers/pt/training)
 
 ### **Leituras Complementares**
 - [QLoRA Paper](https://arxiv.org/abs/2305.14314)
@@ -139,7 +139,7 @@ Dominar técnicas de fine-tuning e LoRA (Low-Rank Adaptation) para adaptar model
 - [DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2402.09353)
 
 ### **Tutoriais Práticos**
-- [Fine-tuning Llama 2 with LoRA](https://blog.paperspace.com/fine-tune-llama-2-with-lora/)
+- [Fine-tuning Llama 2 with LoRA](https://medium.com/@harsh.vardhan7695/fine-tuning-llama-2-using-lora-and-qlora-a-comprehensive-guide-fd2260f0aa5f)
 - [PEFT Documentation](https://huggingface.co/docs/peft/index)
 - [Quantization Guide](https://huggingface.co/docs/transformers/quantization)
 

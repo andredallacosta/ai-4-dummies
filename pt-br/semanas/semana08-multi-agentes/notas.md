@@ -12,8 +12,8 @@ Dominar técnicas avançadas de orquestração e coordenação de múltiplos age
 **Objetivo:** Entender princípios de sistemas multi-agentes
 
 **Atividades:**
-- [ ] 📖 Ler: [Multi-Agent Systems Overview](https://blog.langchain.dev/multi-agent-systems/)
-- [ ] 📖 Ler: [Agent Communication Patterns](https://blog.crewai.com/agent-collaboration-patterns/)
+- [ ] 📖 Ler: [Multi-Agent Systems Overview](https://blog.langchain.dev/langgraph-multi-agent-workflows/)
+- [ ] 📖 Ler: [Agent Communication Patterns](https://docs.crewai.com/concepts/collaboration#collaboration-patterns)
 - [ ] 📝 Mapear padrões: Hierarchical, Peer-to-peer, Pipeline
 - [ ] 🧠 Listar vantagens de múltiplos agentes vs agente único
 - [ ] 📝 Identificar desafios: coordenação, conflitos, sincronização
@@ -141,11 +141,11 @@ Dominar técnicas avançadas de orquestração e coordenação de múltiplos age
 ### **Leituras Essenciais**
 - [AutoGen Documentation](https://microsoft.github.io/autogen/)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
-- [Multi-Agent Collaboration](https://blog.crewai.com/agent-collaboration-patterns/)
+- [Multi-Agent Collaboration](https://docs.crewai.com/concepts/collaboration/)
 
 ### **Leituras Complementares**
 - [Distributed AI Systems](https://arxiv.org/abs/2311.11114)
-- [Agent Communication Languages](https://www.cs.cmu.edu/~softagents/kqml.html)
+- [Agent Communication Languages](https://www.cs.cmu.edu/~qihe/paper/open_solution/node3.html)
 - [Swarm Intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence)
 
 ### **Papers Relevantes**

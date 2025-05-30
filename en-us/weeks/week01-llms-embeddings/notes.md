@@ -26,8 +26,8 @@ Understand in theory and practice what LLMs and embeddings are, how to generate 
 **Objective:** Understand the concept of embeddings and their applications
 
 **Activities:**
-- [ ] 📖 Read: [What are embeddings?](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)
-- [ ] 📖 Read: [Word2Vec Explained](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71)
+- [ ] 📖 Read: [What are embeddings?](https://platform.openai.com/docs/guides/embeddings)
+- [ ] 📖 Read: [Word2Vec Explained](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71/)
 - [ ] 📝 Create a mind map: types of embeddings (word, sentence, document)
 - [ ] 🧠 Think of 3 use cases for embeddings in your professional/personal context
 
@@ -125,7 +125,7 @@ Understand in theory and practice what LLMs and embeddings are, how to generate 
 
 ### **Complementary Readings**
 - [HuggingFace Transformers Course](https://huggingface.co/learn/nlp-course/chapter1/1)
-- [OpenAI Cookbook: Embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Getting_embeddings.ipynb)
+- [OpenAI Cookbook: Embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Get_embeddings_from_dataset.ipynb)
 - [Awesome Embeddings Papers](https://github.com/Separius/awesome-sentence-embedding)
 
 ### **Communities**

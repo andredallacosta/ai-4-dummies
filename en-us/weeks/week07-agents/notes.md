@@ -12,8 +12,8 @@ Master concepts and implementation of autonomous AI agents, including different 
 **Objective:** Understand what agents are and their classification
 
 **Activities:**
-- [ ] 📖 Read: [What are AI Agents?](https://blog.langchain.dev/what-is-an-agent/)
-- [ ] 📖 Read: [Types of AI Agents](https://www.anthropic.com/research/ai-agents-types)
+- [ ] 📖 Read: [What are AI Agents?](https://python.langchain.com/docs/tutorials/agents/)
+- [ ] 📖 Read: [Types of AI Agents](https://cloud.google.com/discover/what-are-ai-agents)
 - [ ] 📝 Map types: Reactive, Deliberative, Hybrid, Learning
 - [ ] 🧠 List 5 real-world agent examples
 - [ ] 📝 Compare agents vs traditional chatbots
@@ -27,7 +27,7 @@ Master concepts and implementation of autonomous AI agents, including different 
 **Objective:** Implement first agent with LangChain
 
 **Activities:**
-- [ ] 📖 Read: [LangChain Agents Guide](https://python.langchain.com/docs/modules/agents/)
+- [ ] 📖 Read: [LangChain Agents Guide](https://python.langchain.com/docs/how_to/#agents)
 - [ ] 👨‍💻 Create `example_01_basic_agent.py`
 - [ ] 🧪 Implement agent with tools:
   - Calculator tool
@@ -140,14 +140,14 @@ Master concepts and implementation of autonomous AI agents, including different 
 ## 📚 Study Resources
 
 ### **Essential Readings**
-- [LangChain Agents](https://python.langchain.com/docs/modules/agents/)
+- [LangChain Agents](https://python.langchain.com/docs/how_to/#agents)
 - [CrewAI Documentation](https://docs.crewai.com/)
-- [AI Agents Explained](https://blog.langchain.dev/what-is-an-agent/)
+- [AI Agents Explained](https://python.langchain.com/docs/tutorials/agents/)
 
 ### **Additional Readings**
 - [AutoGPT Architecture](https://github.com/Significant-Gravitas/AutoGPT)
-- [Agent Memory Systems](https://blog.langchain.dev/memory-in-ai-agents/)
-- [Multi-Agent Frameworks Comparison](https://blog.crewai.com/langchain-vs-crewai/)
+- [Agent Memory Systems](https://blog.langchain.dev/memory-for-agents/)
+- [Multi-Agent Frameworks Comparison](https://medium.com/@cognidownunder/in-the-ever-evolving-world-of-ai-frameworks-two-contenders-have-risen-to-prominence-each-vying-ee511ca7a366)
 
 ### **Relevant Papers**
 - [ReAct: Reasoning and Acting with LLMs](https://arxiv.org/abs/2210.03629)

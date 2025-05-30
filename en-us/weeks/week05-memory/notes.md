@@ -12,7 +12,7 @@ Master concepts and implementation of memory systems for LLMs and agents, includ
 **Objective:** Understand memory types and their importance for AI agents
 
 **Activities:**
-- [ ] 📖 Read: [Memory in AI Systems](https://blog.langchain.dev/memory-in-ai-systems/)
+- [ ] 📖 Read: [Memory in AI Systems](https://python.langchain.com/api_reference/langchain/memory.html)
 - [ ] 📖 Read: [Short vs Long Term Memory](https://arxiv.org/abs/2307.08621)
 - [ ] 📝 Summarize differences: Working Memory vs Long-term Memory
 - [ ] 🧠 List 5 scenarios where persistent memory is crucial
@@ -27,7 +27,7 @@ Master concepts and implementation of memory systems for LLMs and agents, includ
 **Objective:** Implement different memory types with LangChain
 
 **Activities:**
-- [ ] 📖 Read: [LangChain Memory Documentation](https://python.langchain.com/docs/modules/memory/)
+- [ ] 📖 Read: [LangChain Memory Documentation](https://python.langchain.com/api_reference/langchain/memory.html)
 - [ ] 👨‍💻 Create `example_01_memory_types.py`
 - [ ] 🧪 Test different types:
   - ConversationBufferMemory
@@ -139,14 +139,14 @@ Master concepts and implementation of memory systems for LLMs and agents, includ
 ## 📚 Study Resources
 
 ### **Essential Readings**
-- [LangChain Memory](https://python.langchain.com/docs/modules/memory/)
+- [LangChain Memory](https://python.langchain.com/api_reference/langchain/memory.html)
 - [LlamaIndex Storage](https://docs.llamaindex.ai/en/stable/module_guides/storing/index.html)
-- [Vector Databases for Memory](https://blog.langchain.dev/long-term-memory/)
+- [Vector Databases for Memory](https://python.langchain.com/api_reference/langchain/memory.html)
 
 ### **Additional Readings**
 - [Memory-Augmented Neural Networks](https://arxiv.org/abs/1603.03129)
-- [Persistent Memory in Chatbots](https://blog.rasa.com/conversation-memory-and-context/)
-- [RAG vs Memory Systems](https://blog.langchain.dev/rag-vs-memory/)
+- [Conversation Patterns](https://rasa.com/docs/learn/concepts/conversation-patterns/)
+- [RAG vs Memory Systems](https://python.langchain.com/docs/tutorials/rag/)
 
 ### **Relevant Papers**
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
