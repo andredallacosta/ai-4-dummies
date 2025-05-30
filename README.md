@@ -94,20 +94,31 @@ ai-4-dummies/
 ├── 🇺🇸 en-us/                    # English content
 │   ├── weeks/                    # Weekly lessons
 │   │   ├── week01-llms-embeddings/
+│   │   │   ├── examples/         # Code examples
+│   │   │   ├── mini-project/     # Weekly project
+│   │   │   ├── experiments.md    # Practical experiments
+│   │   │   └── notes.md          # Learning notes
 │   │   ├── week02-vector-databases/
-│   │   └── ...
-│   └── projects/                 # Independent projects
+│   │   ├── week03-rag/
+│   │   ├── week04-mcp/
+│   │   ├── week05-memory/
+│   │   ├── week06-fine-tuning/
+│   │   ├── week07-agents/
+│   │   ├── week08-multi-agents/
+│   │   ├── week09-deploy/
+│   │   └── week10-advanced/
+│   ├── projects/                 # Independent projects
+│   ├── images/                   # Documentation images
+│   ├── progress.md               # Learning progress tracking
+│   └── generative_ai_plan.md     # Learning plan
 │
 ├── 🇧🇷 pt-br/                    # Portuguese content
-│   ├── semanas/                  # Weekly lessons
-│   │   ├── semana01-llms-embeddings/
-│   │   ├── semana02-bancos-vetoriais/
-│   │   └── ...
-│   └── projetos/                 # Independent projects
 │
-├── README.md                     # This file
-├── requirements.txt              # Dependencies
-└── LICENSE                       # MIT License
+├── .env.example                  # Template de variáveis de ambiente
+├── README.md                     # Este arquivo
+├── requirements.txt              # Dependências Python
+├── .gitignore                    # Padrões do Git ignore
+└── LICENSE                       # Licença MIT
 ```
 
 ### 💡 Learning Approach
@@ -207,21 +218,32 @@ cd pt-br/semanas/semana01-llms-embeddings/
 ```
 ai-4-dummies/
 ├── 🇺🇸 en-us/                    # Conteúdo em inglês
-│   ├── weeks/                    # Aulas semanais
-│   │   ├── week01-llms-embeddings/
-│   │   ├── week02-vector-databases/
-│   │   └── ...
-│   └── projects/                 # Projetos independentes
 │
 ├── 🇧🇷 pt-br/                    # Conteúdo em português
 │   ├── semanas/                  # Aulas semanais
 │   │   ├── semana01-llms-embeddings/
+│   │   │   ├── exemplos/         # Exemplos de código
+│   │   │   ├── mini-projeto/     # Projeto semanal
+│   │   │   ├── experimentos.md   # Experimentos práticos
+│   │   │   └── notas.md          # Notas de aprendizado
 │   │   ├── semana02-bancos-vetoriais/
-│   │   └── ...
-│   └── projetos/                 # Projetos independentes
+│   │   ├── semana03-rag/
+│   │   ├── semana04-mcp/
+│   │   ├── semana05-memoria/
+│   │   ├── semana06-fine-tuning/
+│   │   ├── semana07-agentes/
+│   │   ├── semana08-multi-agentes/
+│   │   ├── semana09-deploy/
+│   │   └── semana10-avancados/
+│   ├── projetos/                 # Projetos independentes
+│   ├── imagens/                  # Imagens da documentação
+│   ├── progresso.md              # Acompanhamento do progresso
+│   └── plano_ia_generativa.md    # Plano de aprendizado
 │
+├── .env.example                  # Template de variáveis de ambiente
 ├── README.md                     # Este arquivo
-├── requirements.txt              # Dependências
+├── requirements.txt              # Dependências Python
+├── .gitignore                    # Padrões do Git ignore
 └── LICENSE                       # Licença MIT
 ```
 
