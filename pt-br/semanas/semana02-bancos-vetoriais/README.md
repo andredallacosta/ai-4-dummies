@@ -184,7 +184,7 @@ python-multipart==0.0.6
 ### **Estrutura de Arquivos**
 ```
 semana02-bancos-vetoriais/
-├── notas.md                          # Este arquivo
+├── README.md                         # Este arquivo
 ├── experimentos.md                   # Suas anotações
 ├── exemplos/
 │   ├── exemplo_01_chromadb_basico.py

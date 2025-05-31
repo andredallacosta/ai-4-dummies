@@ -91,13 +91,13 @@ cd en-us/weeks/week01-llms-embeddings/
 
 ```
 ai-4-dummies/
-├── 🇺🇸 en-us/                    # English content
+├── 🇺🇸 en-us/                     # English content
 │   ├── weeks/                    # Weekly lessons
 │   │   ├── week01-llms-embeddings/
 │   │   │   ├── examples/         # Code examples
 │   │   │   ├── mini-project/     # Weekly project
 │   │   │   ├── experiments.md    # Practical experiments
-│   │   │   └── notes.md          # Learning notes
+│   │   │   └── README.md         # Learning notes
 │   │   ├── week02-vector-databases/
 │   │   ├── week03-rag/
 │   │   ├── week04-mcp/
@@ -112,7 +112,7 @@ ai-4-dummies/
 │   ├── progress.md               # Learning progress tracking
 │   └── generative_ai_plan.md     # Learning plan
 │
-├── 🇧🇷 pt-br/                    # Portuguese content
+├── 🇧🇷 pt-br/                     # Portuguese content
 │
 ├── .env.example                  # Template de variáveis de ambiente
 ├── README.md                     # Este arquivo
@@ -217,15 +217,15 @@ cd pt-br/semanas/semana01-llms-embeddings/
 
 ```
 ai-4-dummies/
-├── 🇺🇸 en-us/                    # Conteúdo em inglês
+├── 🇺🇸 en-us/                     # Conteúdo em inglês
 │
-├── 🇧🇷 pt-br/                    # Conteúdo em português
+├── 🇧🇷 pt-br/                     # Conteúdo em português
 │   ├── semanas/                  # Aulas semanais
 │   │   ├── semana01-llms-embeddings/
 │   │   │   ├── exemplos/         # Exemplos de código
 │   │   │   ├── mini-projeto/     # Projeto semanal
 │   │   │   ├── experimentos.md   # Experimentos práticos
-│   │   │   └── notas.md          # Notas de aprendizado
+│   │   │   └── README.md         # Notas de aprendizado
 │   │   ├── semana02-bancos-vetoriais/
 │   │   ├── semana03-rag/
 │   │   ├── semana04-mcp/

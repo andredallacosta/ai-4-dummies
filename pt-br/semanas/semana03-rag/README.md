@@ -165,7 +165,7 @@ faiss-cpu==1.7.4
 ### **Estrutura de Arquivos**
 ```
 semana03-rag/
-├── notas.md                          # Este arquivo
+├── README.md                         # Este arquivo
 ├── experimentos.md                   # Suas anotações
 ├── exemplos/
 │   ├── exemplo_01_langchain_basico.py

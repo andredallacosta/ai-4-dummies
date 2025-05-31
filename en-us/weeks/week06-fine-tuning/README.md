@@ -165,7 +165,7 @@ scikit-learn==1.3.2
 ### **File Structure**
 ```
 week06-fine-tuning/
-├── notes.md                          # This file
+├── README.md                         # This file
 ├── experiments.md                    # Your notes
 ├── examples/
 │   ├── example_01_basic_fine_tuning.py

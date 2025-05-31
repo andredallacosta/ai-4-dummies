@@ -174,7 +174,7 @@ pandas==2.0.3
 ### **Estrutura de Arquivos**
 ```
 semana05-memoria/
-├── notas.md                          # Este arquivo
+├── README.md                         # Este arquivo
 ├── experimentos.md                   # Suas anotações
 ├── exemplos/
 │   ├── exemplo_01_memory_types.py

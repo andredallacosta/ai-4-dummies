@@ -196,7 +196,7 @@ evaluate==0.4.1
 ### **File Structure**
 ```
 week10-advanced/
-├── notes.md                          # This file
+├── README.md                         # This file
 ├── experiments.md                    # Your notes
 ├── examples/
 │   ├── example_01_vision_language.py

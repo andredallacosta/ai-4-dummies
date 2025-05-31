@@ -153,7 +153,7 @@ asyncio-compat==0.2.1
 ### **Estrutura de Arquivos**
 ```
 semana04-mcp/
-├── notas.md                          # Este arquivo
+├── README.md                         # Este arquivo
 ├── experimentos.md                   # Suas anotações
 ├── exemplos/
 │   ├── exemplo_01_cliente_basico.py

@@ -152,7 +152,7 @@ pandas==2.0.3
 ### **Estrutura de Arquivos**
 ```
 semana01-llms-embeddings/
-├── notas.md                           # Este arquivo
+├── README.md                          # Este arquivo
 ├── experimentos.md                    # Suas anotações
 ├── exemplos/
 │   ├── exemplo_01_basico.py

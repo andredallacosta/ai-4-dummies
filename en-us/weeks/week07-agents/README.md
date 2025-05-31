@@ -175,7 +175,7 @@ python-dotenv==1.0.0
 ### **File Structure**
 ```
 week07-agents/
-├── notes.md                          # This file
+├── README.md                         # This file
 ├── experiments.md                    # Your notes
 ├── examples/
 │   ├── example_01_basic_agent.py

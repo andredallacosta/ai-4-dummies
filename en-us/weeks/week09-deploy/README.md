@@ -179,7 +179,7 @@ evidently==0.4.11
 ### **File Structure**
 ```
 week09-deploy/
-├── notes.md                          # This file
+├── README.md                         # This file
 ├── experiments.md                    # Your notes
 ├── examples/
 │   ├── example_01_fastapi_api.py

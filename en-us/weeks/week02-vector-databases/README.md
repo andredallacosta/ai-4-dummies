@@ -184,7 +184,7 @@ python-multipart==0.0.6
 ### **File Structure**
 ```
 week02-vector-databases/
-├── notes.md                          # This file
+├── README.md                         # This file
 ├── experiments.md                    # Your notes
 ├── examples/
 │   ├── example_01_chromadb_basics.py

@@ -154,7 +154,7 @@ asyncio-compat==0.2.1
 ### **File Structure**
 ```
 week04-mcp/
-├── notes.md                          # This file
+├── README.md                         # This file
 ├── experiments.md                    # Your notes
 ├── examples/
 │   ├── example_01_basic_client.py

@@ -174,7 +174,7 @@ celery==5.3.4
 ### **File Structure**
 ```
 week08-multi-agents/
-├── notes.md                          # This file
+├── README.md                         # This file
 ├── experiments.md                    # Your notes
 ├── examples/
 │   ├── example_01_autogen_basic.py

@@ -175,7 +175,7 @@ python-dotenv==1.0.0
 ### **Estrutura de Arquivos**
 ```
 semana07-agentes/
-├── notas.md                          # Este arquivo
+├── README.md                         # Este arquivo
 ├── experimentos.md                   # Suas anotações
 ├── exemplos/
 │   ├── exemplo_01_agente_basico.py
